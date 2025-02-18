@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ranjeet
-- 👀 I’m interested in Web developement and cloud computing 
+- 👀 I’m interested in Web dev and deep understanding of Tech stacks
 - 🌱 I’m currently learning Aws cloud 
 - 📫 How to reach me ... https://www.X.com/tweetsByRanjeet
 - 😄 Pronouns: he/him
