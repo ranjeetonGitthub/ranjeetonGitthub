@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web dev and deep understanding of Tech stacks
 - 🌱 I’m currently learning Aws cloud 
 - 📫 How to reach me ... https://www.X.com/tweetsByRanjeet
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he
 - ⚡ Fun fact: I talk to my bugs before fixing them (they rarely listen).
 
 <!---
